@@ -1,5 +1,7 @@
 {
     "PasswordVerifier": {
-        "PasswordFoundInDb": "您的这个密码已在haveibeenpwned.com数据库中出现过%1$s次，请重新设置一个安全的密码。"
+        "CantReachAPI": "无法连接 haveibeenpwned.com 来验证密码。有关详细信息，请查看 Matomo 日志。",
+        "PasswordFoundInDb": "您的这个密码已在haveibeenpwned.com数据库中出现过%1$s次，请重新设置一个安全的密码。",
+        "PluginDescription": "通过在 haveibeenpwned.com 数据库中搜索密码的哈希值来拒绝不安全的密码"
     }
 }
