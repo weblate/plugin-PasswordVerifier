@@ -1,1 +1,7 @@
-{}
+{
+    "PasswordVerifier": {
+        "CantReachAPI": "Nu se poate accesa haveibeenpwned.com pentru verificarea parolei. Vă rugăm să consultați jurnalul Matomo pentru mai multe informații.",
+        "PasswordFoundInDb": "Parola dumneavoastră apare de %1$s ori în baza de date haveibeenpwned.com. Vă rugăm să alegeți o parolă sigură.",
+        "PluginDescription": "Respinge parolele nesigure, căutând hash-ul lor în baza de date haveibeenpwned.com"
+    }
+}
